@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Flo, I am Full-stack Web Developer
 
-- 🔭 I’m currently working on a mobile application **Spend 'n' Save**
+- 🔭 I’m currently working on a mobile application <a href="https://spendnsave--kjou54c7tj.expo.app/login" target="blank"> **Spend 'n' Save**</a>, 
 - 🌱 I’m currently learning more about coding languages and frameworks that I know.
 
 - 💬 Ask me about anything, always willing to chat.
